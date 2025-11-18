@@ -3,42 +3,54 @@
 
 ---
 
-### Visão Institucional
+### Visão Institucional e Missão
 
-Este repositório é o espaço centralizado de **transparência** e **inovação** da Prefeitura de Corumbá. Representamos o esforço contínuo da administração pública para digitalizar e otimizar os serviços em benefício do município e de seus cidadãos.
+Este é o espaço central de **transparência** e **inovação** da administração municipal de Corumbá. Nossos projetos visam exclusivamente a modernização dos serviços e o apoio direto ao município.
 
-Nossa direção é **estritamente institucional**, focada na criação e desenvolvimento de novos projetos de utilidade pública e no apoio direto ao município, sem vínculos com qualquer direção partidária.
+O desenvolvimento é **estritamente institucional**, neutro e focado em soluções digitais duradouras para o benefício do cidadão.
 
 ---
 
-### 🚀 Projetos em Foco (Desenvolvimento e Apoio ao Município)
+### 🌐 Projetos de Acesso Público (Transparência Ativa)
+
+Estes repositórios são abertos à comunidade, reforçando nosso compromisso com a transparência e a colaboração.
 
 | Projeto | Descrição | Status | Foco Principal |
 | :--- | :--- | :--- | :--- |
-| **Mapa-Saude-Corumba** | Localização geográfica interativa e horários de funcionamento das unidades de saúde. | Em Desenvolvimento | Acesso Cidadão e Saúde |
-| **Portal-Dados-Abertos** | Repositório central para consulta e download de dados públicos municipais. | Ativo | Transparência e Pesquisa |
-| **[Seu Novo Projeto Aqui]** | [Descrição do Próximo Projeto] | [Planejamento/Análise] | [Benefício para o Município] |
+| **WhatsApp\_Dispara** | Solução para comunicação em massa com o cidadão e envio de alertas municipais. | Público | Comunicação e Alerta |
+| **Extractor\_harware** | Coleta de dados de hardware dos computadores institucionais para gestão de ativos. | Público | Gestão de TI |
+| **sao\_joao\_web** | Migração e exposição de informações históricas e culturais do tradicional São João de Corumbá. | Público | Cultura e História |
 
 ---
 
-### 💻 Stack Tecnológico
+### 🛠 Sistemas Internos e de Apoio à Gestão (Privados)
 
-Utilizamos uma variedade de linguagens e ferramentas robustas para garantir a segurança, performance e escalabilidade das nossas aplicações:
+Estes projetos suportam a gestão interna e o desenvolvimento de novos serviços públicos, sendo mantidos em repositórios privados durante o ciclo de desenvolvimento.
+
+| Projeto | Descrição | Status | Tecnologias Chave |
+| :--- | :--- | :--- | :--- |
+| **Mapa Saude Corumba** | Mapa interativo para localização e horários de funcionamento das unidades de saúde. | Privado | `JavaScript` / `Mapbox` |
+| **Sistema Parcerias** | Sistema completo para gestão de convênios e contratos com organizações da sociedade civil. | Privado | `React` / `Node.js` |
+| **enquete-portal-corumba-ms** | Aplicação web para a realização de enquetes públicas no portal da prefeitura. | Privado | `Flask` / `SQLite` |
+| **Synopsis-API** | Projeto de APIs para extração e consolidação de bases de dados locais (BI). | Privado | `PHP` / `Tableau` |
+
+---
+
+### 💻 Stack Tecnológico Principal
+
+Nossas soluções são desenvolvidas utilizando um conjunto diversificado de tecnologias robustas:
 
 <p align="left">
     <a href="https://skillicons.dev/icons?i=angular,bootstrap,css,django,docker,express,firebase,flask,git,html,js,laravel,linux,mongodb,mysql,nodejs,php,postgres,py,react,redux,sqlite,tailwind,vue" target="_blank">
         <img src="https://skillicons.dev/icons?i=angular,bootstrap,css,django,docker,dotnet,express,firebase,flask,git,go,html,js,jest,laravel,linux,mariadb,mongodb,mysql,nginx,nodejs,oracle,perl,php,postgres,postman,py,react,redux,ruby,sqlite,symfony,tailwind,vue" alt="Tecnologias utilizadas pela Prefeitura de Corumbá/MS" />
     </a>
 </p>
-<p align="left">
-    *Esta lista representa o conjunto de tecnologias que suportam todos os nossos projetos.*
-</p>
 
 ---
 
 ### 👥 Equipe de Desenvolvimento
 
-Esta organização é mantida e gerida pelo **Setor de Tecnologia da Informação** da Prefeitura Municipal de Corumbá.
+Esta organização é mantida e gerida pelo **Setor de Tecnologia da Informação (TI)** da Prefeitura Municipal de Corumbá.
 
 | Função | Membro (Nome/Usuário GitHub) | Foco de Atuação |
 | :--- | :--- | :--- |
@@ -48,13 +60,11 @@ Esta organização é mantida e gerida pelo **Setor de Tecnologia da Informaçã
 
 ---
 
-### 🔗 Contato e Colaboração
-
-Sua contribuição é fundamental para o aprimoramento dos serviços municipais.
+### 🤝 Contato e Colaboração
 
 * **Website Oficial:** [INSERIR LINK OFICIAL DA PREFEITURA]
 * **Contato de TI:** [INSERIR E-MAIL INSTITUCIONAL PARA CONTATO DE DESENVOLVIMENTO]
-* **Reportar/Sugestões:** Utilize a seção **Issues** do repositório específico do projeto.
+* **Reportar/Sugestões:** Utilize a seção **Issues** no repositório público do projeto.
 
 ---
 <p align="center">
