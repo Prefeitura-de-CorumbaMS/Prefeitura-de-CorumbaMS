@@ -1,6 +1,6 @@
 <div align="center">
-# 🇧🇷 PREFEITURA MUNICIPAL DE CORUMBÁ/MS
-## HUB Oficial de Tecnologia e Inovação
+<h1>🇧🇷 PREFEITURA MUNICIPAL DE CORUMBÁ/MS</h1>
+<h2>HUB Oficial de Tecnologia e Inovação</h2>
 
 </div>
 ---
