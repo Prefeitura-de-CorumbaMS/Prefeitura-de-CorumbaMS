@@ -54,16 +54,15 @@ Esta organização é mantida e gerida pelo **Setor de Tecnologia da Informaçã
 
 | Função | Membro (Nome/Usuário GitHub) | Foco de Atuação |
 | :--- | :--- | :--- |
-| **Gestão e Liderança de TI** | [INSERIR NOME DO LÍDER E LINK] | Estratégia e Governança |
-| **Desenvolvimento Full Stack** | [INSERIR NOME DO DESENVOLVEDOR 1 E LINK] | Desenvolvimento e Integração |
-| **Suporte e Infraestrutura** | [INSERIR NOME DO TÉCNICO E LINK] | Segurança e Manutenção |
+| **Gestão do Perfil e Liderança Operacional** | **José Sandonas (`Josandonas`)** | Planejamento, Governança, Front-end, Back-end, Operações e Criação de Projetos |
+| **Desenvolvimento Full Stack** | **Elizael Ramos (`elizaelramos`)** | Front-end e Back-end |
+| **Desenvolvimento Full Stack** | **Guilherme-Emmannuel** | Front-end e Back-end |
+| **Desenvolvimento Full Stack** | **M. Brandão (`mabrandao`)** | Front-end e Back-end |
 
 ---
 
 ### 🤝 Contato e Colaboração
 
-* **Website Oficial:** [INSERIR LINK OFICIAL DA PREFEITURA]
-* **Contato de TI:** [INSERIR E-MAIL INSTITUCIONAL PARA CONTATO DE DESENVOLVIMENTO]
 * **Reportar/Sugestões:** Utilize a seção **Issues** no repositório público do projeto.
 
 ---
